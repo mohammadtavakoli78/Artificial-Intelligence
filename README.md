@@ -1,2 +1,1 @@
-# Artificial-Intelligence
-This repository is project of Artificial Intelligence course
+# <p align="center">Artificial Intelligence Projects</p>
