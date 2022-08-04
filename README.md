@@ -2,10 +2,10 @@
 
 # Table of Contents
 - [Introduction](https://github.com/mohammadtavakoli78/Artificial-Intelligence#introduction)
-- [First_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#First_Project)
-- [Second_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#Second_Project)
-- [Third_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#Third_Project)
-- [Fourth_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#Fourth_Project)
+- [First_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#💻 First_Project)
+- [Second_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#💻 Second_Project)
+- [Third_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#💻 Third_Project)
+- [Fourth_Project](https://github.com/mohammadtavakoli78/Artificial-Intelligence#💻 Fourth_Project)
 - [Technologies](https://github.com/mohammadtavakoli78/Artificial-Intelligence#technologies)
 
 ## Introduction
