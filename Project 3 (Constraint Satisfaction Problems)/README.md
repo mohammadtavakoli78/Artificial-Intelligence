@@ -28,5 +28,5 @@ Project is created with:
 ## Setup
 To run this project, use below commands:
 ```
-$ python3 main.py
+$ python3 csp.py
 ```
